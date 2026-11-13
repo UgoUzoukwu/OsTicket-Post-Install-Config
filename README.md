@@ -1,4 +1,3 @@
-# OsTicket-Post-Install-Config
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" height="75%" width="100%"alt="osTicket logo"/>
 </p>
@@ -11,6 +10,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com) -->
 
+<h2>Skills Demonstrated</h2>
+
+- Role-based access: roles, departments and teams
+- Creating agent and end-user accounts
+- Defining SLAs by severity and help topics for ticket intake
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -19,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
